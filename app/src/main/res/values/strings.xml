@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="base_amt">Base</string>
+    <string name="bill_amt">Bill amount</string>
+    <string name="tip_amt_text">Tip</string>
+    <string name="total_amt_text">Total</string>
+</resources>
