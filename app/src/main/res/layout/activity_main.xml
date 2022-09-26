@@ -59,7 +59,7 @@
         android:layout_marginStart="32dp"
         android:ems="8"
         android:hint="@string/bill_amt"
-        android:inputType="textPersonName"
+        android:inputType="numberDecimal"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="@+id/tvBaseLabel"
         app:layout_constraintStart_toEndOf="@+id/tvBaseLabel"
